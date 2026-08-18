@@ -137,7 +137,7 @@ python kaprekar.py
 kaprekar-python/
 ├── kaprekar.py
 ├── README.md
-└── fluxograma.png
+└── fluxograma_kaprekar.png
 ```
 
 ---
