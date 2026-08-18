@@ -1,6 +1,6 @@
 # Programa que aplica o processo de Kaprekar.
 # Autor: Piêtro Bitencourt Nunes
-# Ig: @Piiettrosz - GitHub: Ghosttxz
+# Ig: @Piiettrosz - GitHub: pietrobitencourt
 # Disciplina: Programação de Computadores
 # Objetivo: Encontrar a constante 6174
         # O algoritmo organiza os dígitos em ordem crescente e decrescente, subtrai os valores e repete até chegar em 6174.
