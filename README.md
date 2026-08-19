@@ -61,8 +61,6 @@ O algoritmo segue a seguinte lógica:
 
 <img width="1474" height="2000" alt="image" src="https://github.com/user-attachments/assets/1f159908-8f42-4fb1-a91b-7cc6723bf36e" />
 
-" />
-
 ---
 
 ## Exemplo de Execução
